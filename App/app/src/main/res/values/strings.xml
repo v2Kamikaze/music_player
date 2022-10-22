@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="hello">Olá</string>
+    <string name="what_do_you_want_to_hear">O que deseja ouvir?</string>
+</resources>
